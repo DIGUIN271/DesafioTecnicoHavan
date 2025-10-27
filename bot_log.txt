@@ -1,0 +1,5 @@
+2025-10-26 22:55:27 - INFO - Iniciando execução do bot
+2025-10-26 22:55:27 - INFO - ID da tarefa é: 0
+2025-10-26 22:55:27 - INFO - Parametros da tarefa são: {}
+2025-10-26 22:55:33 - INFO - Site aberto: https://www.rpachallenge.com/
+2025-10-26 22:55:38 - INFO - Planilha baixada.
