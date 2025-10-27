@@ -29,7 +29,7 @@ def main():
 
     bot = WebBot()
 
-    bot.headless = False
+    bot.headless = True
     # Forma oculta: False (desligado) True (ligado)
 
     bot.browser = Browser.EDGE
